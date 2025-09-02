@@ -47,6 +47,5 @@ We implemented and compared **CNN-based architectures** and **Vision Transformer
 
 - [**Bhavya Bhambhani**](https://github.com/bhavyaB30)  
 
-- [**Himank Xavier Soren**](https://github.com/himank111)
-<!-- - [**Kumar Divyanshu**](https://github.com/kumardivyanshu21)  -->
+- [**Himank Xavier Soren**](https://github.com/himank111)                                                                                     - [**Kumar Divyanshu**](https://github.com/kumardivyanshu21) 
 
